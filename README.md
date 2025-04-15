@@ -13,7 +13,7 @@
 </a>
 </div>
 
-## 👨‍💻 Técnologias que domino
+## 👨‍💻 Tecnologias que domino
 <div style="display: inline_block">
   <img align="center" alt="Rafael-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
   <img align="center" alt="Rafael-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
