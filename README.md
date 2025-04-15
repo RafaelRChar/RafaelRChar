@@ -6,10 +6,10 @@
 **Sinta-se à vontade para entrar em contato 😉**<br>
 <div>
 <a href="https://github.com/RafaelRChar/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelRChar&theme=midnight-purple&rank_icon=github" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelRChar&theme=midnight-purple&rank_icon=github" />
 </a>
 <a href="https://github.com/aRafaelRChar/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelRChar&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelRChar&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
 </a>
 </div>
 
