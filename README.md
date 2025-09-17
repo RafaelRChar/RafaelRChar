@@ -4,14 +4,6 @@
 🤝 Interesse em colaborar em projetos desafiadores e aprender com a equipe.<br>
 💬 Aberto a conversar sobre colaborações e oportunidades! <br><br>
 **Sinta-se à vontade para entrar em contato 😉**<br>
-<div>
-<a href="https://github.com/RafaelRChar/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelRChar&theme=midnight-purple&rank_icon=github" />
-</a>
-<a href="https://github.com/aRafaelRChar/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelRChar&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
-</a>
-</div>
 
 ## 👨‍💻 Tecnologias que domino
 <div style="display: inline_block">
