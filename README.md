@@ -1,6 +1,5 @@
 # Olá, Bem-vindo! sou o Rafael Rossi! 👋
 <!-- Sobre mim -->
-✨ Desenvolvedor iniciante motivado buscando primeira oportunidade profissional em tecnologia.<br>
 🤝 Interesse em colaborar em projetos desafiadores e aprender com a equipe.<br>
 💬 Aberto a conversar sobre colaborações e oportunidades! <br><br>
 **Sinta-se à vontade para entrar em contato 😉**<br>
